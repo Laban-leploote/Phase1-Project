@@ -30,26 +30,10 @@ The analytical process began by aggregating accident records by aircraft make an
 This allowed the identification of aircraft models that consistently demonstrate low fatality rates relative to their accident counts. Models with high total fatalities or fatality rates were categorized as high-risk, while models with minimal fatal records were considered safe investment options for the company’s aviation expansion.
 
 ## Visualizations and Key Insights
-1. Top 15 Aircraft by Number of Accidents
 
-A bar chart was created to display the aircraft with the highest recorded number of accidents. This visualization provides context for understanding which aircraft types are most commonly involved in incidents. Although some aircraft have many accidents, this does not necessarily imply they are unsafe — it could reflect how widely they are used.
-
-Several visualizations were developed to make the analysis clear to non-technical stakeholders. A bar chart was used to show the top 15 aircraft by number of accidents, providing insight into which models are most frequently involved in incidents. A line graph highlighted the ten aircraft with the lowest risk scores, showing clear differences in safety among them. These visuals make it easy for executives to interpret the data and support evidence-based decision-making.
-
-
-![alt text](image-2.png)
-
-## 2. Top 10 Lowest-Risk Aircraft Models
-
-A horizontal bar chart was used to visualize the aircraft models with the lowest risk scores. These models are statistically the safest based on historical data, with low accident and fatality rates. Aircraft such as the Airbus A300-600 and the Boeing 727-231 consistently appeared as low-risk options.
-
-![alt text](image-3.png)
-
-## 3. Line Graph of Lowest-Risk Aircraft
-
-A line graph was plotted to highlight the trend of risk scores among the top 10 safest aircraft. This visualization shows the relative differences in safety across low-risk models, emphasizing the stability and low fatality rates among the safest aircraft types.
-
-![alt text](image-4.png)
+Several visualizations were developed to make the analysis clear to non-technical stakeholders. A bar chart was used to show the top 15 aircraft by number of accidents, providing insight into which models are most frequently involved in accidents. A line graph highlighted the ten aircraft with the lowest risk scores, showing clear differences in safety among them. These visuals make it easy for executives to interpret the data and support evidence-based decision-making.
+We also added and interactive dashboard to help with the visualization here is the link attached:
+https://public.tableau.com/views/Projectdashboard_17595816573930/AircraftSafetyRiskAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Findings and Insights
 
